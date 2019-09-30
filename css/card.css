@@ -1,0 +1,65 @@
+/* card */
+.card {
+    margin: 100px auto;
+    background: linear-gradient(to top,#DEF2FA,rgba(222, 242, 250, 0.548));  
+
+    width: 500px;
+    border: 1px solid #DEF2FA;
+
+}
+
+.card-inside {
+    background: white;  
+    margin: .9rem .75rem .6rem .4rem;
+    box-shadow: 0 0 1px rgba(0,0,0.7);
+    
+    border-radius: 4px;
+    padding: 3rem;
+    
+}
+
+.card-inside:hover {
+    background: rgb(0,0,200);
+}
+
+.startup {
+    height: 80px;
+}
+
+h3 {
+    font-size: 2rem;
+    font-family: lato;
+}
+
+
+
+.card-text {
+    font-size: 1.1rem;
+    letter-spacing: .1rem;
+   font-family: 'Lato';
+    line-height: 1.6rem;
+
+}
+
+
+
+.btn {
+    margin-top: -.5rem;
+    display: flex;
+}
+
+.right {
+
+}
+p {
+    font-size: 1.8rem;
+    font-weight: 500;
+    font-family: lato;
+    margin-left: 1rem;
+}
+
+.white {
+    color: white;
+    background: rgb(0,0,200);
+
+}

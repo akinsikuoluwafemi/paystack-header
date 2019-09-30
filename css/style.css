@@ -9,7 +9,7 @@ body {
     padding: 0;
     margin: 0;
     background: linear-gradient(60deg,#DEF2FA,rgba(222, 242, 250, 0.548));  
-
+    
 }
 
 .nigerian-icon {
@@ -39,7 +39,7 @@ body {
 }
 
 .space {
-    margin-right: 40rem;
+    margin-right: 34rem;
 }
 
 .list-item {
@@ -61,6 +61,7 @@ body {
     border-radius: 5px;
     color: #fff;
     margin-top: -1rem;
+    margin-right: 1rem;
 
 }
 .logo {
@@ -95,4 +96,8 @@ body {
     font-size: 1.4rem;
 
 }
+
+
+
+
 
